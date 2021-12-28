@@ -6,7 +6,12 @@
             "xmrrabbitx\\HelloWorldPackage\\": "src/"
         }
     },
+    "authors": [
+        {
+            "name": "hadimirzaie",
+            "email": "hadi.mirzaie300@gmail.com"
+        }
+    ],
     "minimum-stability": "dev",
-    "prefer-stable": true
-
+    "require": {}
 }
