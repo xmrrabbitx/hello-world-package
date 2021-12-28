@@ -1,0 +1,12 @@
+{
+    "name": "xmrrabbitx/hello-world-package",
+    "description": "A hello world composer private package.",
+    "autoload": {
+        "psr-4": {
+            "xmrrabbitx\\HelloWorldPackage\\": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+
+}
